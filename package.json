@@ -1,7 +1,7 @@
 {
-  "name": "in-memory-rest-api",
+  "name": "internship-rest-api",
   "version": "1.0.0",
-  "description": "A simple REST API written in TypeScript using Express with in-memory storage (no DB)",
+  "description": "A simple REST API written in TypeScript using Express with in-memory storage",
   "main": "dist/server.js",
   "scripts": {
     "build": "tsc",
